@@ -4,6 +4,17 @@ Web Scripting is an automatic method to obtain large amounts of data from websit
 <br/>
 Here, we will be exploring web scraping with Python using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](https://www.selenium.dev/).
 
+## Table of Contents
+
+* [Prerequisites](#prerequisites)
+* [Beautiful Soup](#beautiful-soup)
+* [Selenium](#selenium)
+* [Credits](#credits)
+
+<p align="center">
+<img src="https://www.webharvy.com/images/web%20scraping.png">
+</p>
+
 ### Prerequisites
 * [Python](https://www.python.org/)
 * [Google Chrome](https://www.google.co.in/chrome/)
