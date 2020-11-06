@@ -99,7 +99,7 @@ password.send_keys("1234567890")  # Facebook - Password
 python Selenium.py
 ```
 
-### Credits
+## Credits
 * **Gaurav Sahu**
 * **Chinmay Patil**
 
